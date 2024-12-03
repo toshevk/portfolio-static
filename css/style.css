@@ -31,7 +31,7 @@ section {
     min-width: 300px;
     max-width: 500px;
     padding: 12px;
-    background-color: #07220770;
+    background-color: #072207d2;
     border: 3px solid #989b065d;
     border-radius: 5px;
 }
@@ -68,8 +68,9 @@ section {
 
 #skills_section .card {
     padding: 12px;
-    background-color: #07220770;
+    background-color: #072207d2;
     border: 3px solid #989b065d;
+    border-radius: 5px;
 }
 
 #skills_section img {
@@ -83,6 +84,11 @@ section {
     min-width: 300px;
     max-width: 500px;
     padding: 12px;
-    background-color: #07220770;
+    background-color: #072207d2;
     border: 3px solid #989b065d;
+    border-radius: 5px;
+}
+
+#contact_section .btn-container {
+    text-align: center;
 }
