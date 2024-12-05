@@ -36,6 +36,22 @@ section {
     border-radius: 5px;
 }
 
+.card-wrapper {
+    min-width: 50%;
+    max-width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.card {
+    width: 80%;
+    margin: auto;
+    padding: 12px;
+    background-color: #072207d2;
+    color: white;
+    text-align: center;
+}
+
 .form-container {
     width: 50%;
     margin-left: auto;
